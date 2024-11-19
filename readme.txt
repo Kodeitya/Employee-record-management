@@ -19,4 +19,4 @@ Credential for user panel :
 username : testuser@gmail.com Password : Test@123 
 OR Register a new user.
 
-Credential for admin panel : username : admin Password : Test@123
+Credential for admin panel : username : admin Password : 123
